@@ -1,0 +1,4 @@
+G:\Employeewage\employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.csprojAssemblyReference.cache
+G:\Employeewage\employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.AssemblyInfoInputs.cache
+G:\Employeewage\employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.AssemblyInfo.cs
+G:\Employeewage\employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.csproj.CoreCompileInputs.cache

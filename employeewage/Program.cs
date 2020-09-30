@@ -42,10 +42,6 @@ namespace employeewage
 
 
         }
-    } 
-        static void Main(string[] args)
-    {
-        computeEmpWage();
     }
 }
 
