@@ -1,0 +1,13 @@
+G:\Employeewage\Employeewage\employeewage\bin\Debug\netcoreapp3.1\employeewage.exe
+G:\Employeewage\Employeewage\employeewage\bin\Debug\netcoreapp3.1\employeewage.deps.json
+G:\Employeewage\Employeewage\employeewage\bin\Debug\netcoreapp3.1\employeewage.runtimeconfig.json
+G:\Employeewage\Employeewage\employeewage\bin\Debug\netcoreapp3.1\employeewage.runtimeconfig.dev.json
+G:\Employeewage\Employeewage\employeewage\bin\Debug\netcoreapp3.1\employeewage.dll
+G:\Employeewage\Employeewage\employeewage\bin\Debug\netcoreapp3.1\employeewage.pdb
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.csprojAssemblyReference.cache
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.AssemblyInfoInputs.cache
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.AssemblyInfo.cs
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.csproj.CoreCompileInputs.cache
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.dll
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.pdb
+G:\Employeewage\Employeewage\employeewage\obj\Debug\netcoreapp3.1\employeewage.genruntimeconfig.cache

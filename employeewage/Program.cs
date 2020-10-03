@@ -1,12 +1,25 @@
 ﻿using System;
 
-namespace employeewage
+namespace EmployeesWageProgram
 {
-    class Program
+    class CompanyEmployeeWage
     {
-        static void Main(string[] args)
+        public string companyName;
+        public int wagePerHour;
+        public int workingDays;
+        public int maxHoursPerMonth;
+        public int totalEmployeeWage;
+
+        public CompanyEmployeeWage(string companyName, int wagePerHour, int workingDays, int maxHoursPerMonth)
         {
-            Console.WriteLine("welcome to employeewages");
+            this.companyName = companyName;
+            this.wagePerHour = wagePerHour;
+            this.workingDays = workingDays;
+            this.maxHoursPerMonth = maxHoursPerMonth;
+        }
+        public override string ToString()
+        {
+            return "Total Employee Wage for " + companyName + " is " + totalEmployeeWage;
         }
     }
 }
