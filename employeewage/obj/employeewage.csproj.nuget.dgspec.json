@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Employeewage\\employeewage\\employeewage\\employeewage.csproj": {}
+    "G:\\Employeewage\\Employeewage\\employeewage\\employeewage.csproj": {}
   },
   "projects": {
-    "G:\\Employeewage\\employeewage\\employeewage\\employeewage.csproj": {
+    "G:\\Employeewage\\Employeewage\\employeewage\\employeewage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Employeewage\\employeewage\\employeewage\\employeewage.csproj",
+        "projectUniqueName": "G:\\Employeewage\\Employeewage\\employeewage\\employeewage.csproj",
         "projectName": "employeewage",
-        "projectPath": "G:\\Employeewage\\employeewage\\employeewage\\employeewage.csproj",
+        "projectPath": "G:\\Employeewage\\Employeewage\\employeewage\\employeewage.csproj",
         "packagesPath": "C:\\Users\\Puja\\.nuget\\packages\\",
-        "outputPath": "G:\\Employeewage\\employeewage\\employeewage\\obj\\",
+        "outputPath": "G:\\Employeewage\\Employeewage\\employeewage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Puja\\AppData\\Roaming\\NuGet\\NuGet.Config",
